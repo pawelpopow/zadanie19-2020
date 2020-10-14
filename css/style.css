@@ -1,0 +1,23 @@
+#main-section{
+    background-color:#f5f5dd ;
+}
+/*Selektor klasy*/
+div {
+  
+    width: 200px;
+    margin-bottom: 20px;
+    height: 200px;
+    
+  }
+.first{
+    background-color: rgba(0,0,0,1)
+}
+.second{
+    background-color: rgba(0,0,0,0.8)
+}
+.third{
+    background-color: rgba(0,0,0,0.6)
+}
+.fourth{
+    background-color: rgba(0,0,0,0.4)
+}
